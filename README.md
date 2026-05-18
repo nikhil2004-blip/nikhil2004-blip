@@ -38,55 +38,23 @@ nikhil = {
 
 **Languages**
 
-<img src="https://api.iconify.design/simple-icons/cplusplus.svg?color=%2358A6FF" height="32" alt="C++" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/python.svg?color=%2358A6FF" height="32" alt="Python" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/dart.svg?color=%2358A6FF" height="32" alt="Dart" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/javascript.svg?color=%2358A6FF" height="32" alt="JavaScript" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/typescript.svg?color=%2358A6FF" height="32" alt="TypeScript" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/kotlin.svg?color=%2358A6FF" height="32" alt="Kotlin" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/java.svg?color=%2358A6FF" height="32" alt="Java" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/mysql.svg?color=%2358A6FF" height="32" alt="SQL" />
+[![](https://skillicons.dev/icons?i=cpp,python,dart,js,ts,kotlin,java,mysql&theme=dark)](https://skillicons.dev)
 
 **App & Web**
 
-<img src="https://api.iconify.design/simple-icons/flutter.svg?color=%2358A6FF" height="32" alt="Flutter" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/android.svg?color=%2358A6FF" height="32" alt="Jetpack Compose / Android" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/react.svg?color=%2358A6FF" height="32" alt="React" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%2358A6FF" height="32" alt="Next.js" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%2358A6FF" height="32" alt="Node.js" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/express.svg?color=%2358A6FF" height="32" alt="Express" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%2358A6FF" height="32" alt="FastAPI" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%2358A6FF" height="32" alt="Tailwind CSS" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/vite.svg?color=%2358A6FF" height="32" alt="Vite" />
+[![](https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,fastapi,tailwind,vite&theme=dark)](https://skillicons.dev)
 
 **Backend & Databases**
 
-<img src="https://api.iconify.design/simple-icons/firebase.svg?color=%2358A6FF" height="32" alt="Firebase" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%2358A6FF" height="32" alt="MongoDB" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%2358A6FF" height="32" alt="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/sqlite.svg?color=%2358A6FF" height="32" alt="SQLite" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/convex.svg?color=%2358A6FF" height="32" alt="Convex" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/redis.svg?color=%2358A6FF" height="32" alt="Redis" />
+[![](https://skillicons.dev/icons?i=firebase,mongodb,postgres,sqlite,redis&theme=dark)](https://skillicons.dev)
 
 **3D & Game Dev**
 
-<img src="https://api.iconify.design/simple-icons/threedotjs.svg?color=%2358A6FF" height="32" alt="Three.js" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/react.svg?color=%2358A6FF" height="32" alt="React Three Fiber" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/webgl.svg?color=%2358A6FF" height="32" alt="WebGL" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/unity.svg?color=%2358A6FF" height="32" alt="Unity" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/godotengine.svg?color=%2358A6FF" height="32" alt="Godot" />
+[![](https://skillicons.dev/icons?i=threejs,react,unity,godot&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-<img src="https://api.iconify.design/simple-icons/git.svg?color=%2358A6FF" height="32" alt="Git" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/linux.svg?color=%2358A6FF" height="32" alt="Linux" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/androidstudio.svg?color=%2358A6FF" height="32" alt="Android Studio" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/figma.svg?color=%2358A6FF" height="32" alt="Figma" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=%2358A6FF" height="32" alt="VS Code" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/lucide/mouse-pointer.svg?color=%2358A6FF" height="32" alt="Cursor" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/lucide/bot.svg?color=%2358A6FF" height="32" alt="Antigravity AI" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/vercel.svg?color=%2358A6FF" height="32" alt="Vercel" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/npm.svg?color=%2358A6FF" height="32" alt="npm" />
+[![](https://skillicons.dev/icons?i=git,linux,androidstudio,figma,vscode,vercel,npm&theme=dark)](https://skillicons.dev)
 
 ---
 
