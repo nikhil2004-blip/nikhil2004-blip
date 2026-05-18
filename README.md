@@ -38,55 +38,55 @@ nikhil = {
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://api.iconify.design/simple-icons/cplusplus.svg?color=%2358A6FF" height="32" alt="C++" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/python.svg?color=%2358A6FF" height="32" alt="Python" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/dart.svg?color=%2358A6FF" height="32" alt="Dart" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/javascript.svg?color=%2358A6FF" height="32" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/typescript.svg?color=%2358A6FF" height="32" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/kotlin.svg?color=%2358A6FF" height="32" alt="Kotlin" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/java.svg?color=%2358A6FF" height="32" alt="Java" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/mysql.svg?color=%2358A6FF" height="32" alt="SQL" />
 
 **App & Web**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://api.iconify.design/simple-icons/flutter.svg?color=%2358A6FF" height="32" alt="Flutter" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/android.svg?color=%2358A6FF" height="32" alt="Jetpack Compose / Android" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/react.svg?color=%2358A6FF" height="32" alt="React" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%2358A6FF" height="32" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%2358A6FF" height="32" alt="Node.js" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/express.svg?color=%2358A6FF" height="32" alt="Express" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%2358A6FF" height="32" alt="FastAPI" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%2358A6FF" height="32" alt="Tailwind CSS" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/vite.svg?color=%2358A6FF" height="32" alt="Vite" />
 
 **Backend & Databases**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://api.iconify.design/simple-icons/firebase.svg?color=%2358A6FF" height="32" alt="Firebase" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%2358A6FF" height="32" alt="MongoDB" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%2358A6FF" height="32" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/sqlite.svg?color=%2358A6FF" height="32" alt="SQLite" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/convex.svg?color=%2358A6FF" height="32" alt="Convex" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/redis.svg?color=%2358A6FF" height="32" alt="Redis" />
 
 **3D & Game Dev**
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+<img src="https://api.iconify.design/simple-icons/threedotjs.svg?color=%2358A6FF" height="32" alt="Three.js" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/react.svg?color=%2358A6FF" height="32" alt="React Three Fiber" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/webgl.svg?color=%2358A6FF" height="32" alt="WebGL" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/unity.svg?color=%2358A6FF" height="32" alt="Unity" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/godotengine.svg?color=%2358A6FF" height="32" alt="Godot" />
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity_AI-58A6FF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<img src="https://api.iconify.design/simple-icons/git.svg?color=%2358A6FF" height="32" alt="Git" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/linux.svg?color=%2358A6FF" height="32" alt="Linux" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/androidstudio.svg?color=%2358A6FF" height="32" alt="Android Studio" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/figma.svg?color=%2358A6FF" height="32" alt="Figma" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=%2358A6FF" height="32" alt="VS Code" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide/mouse-pointer.svg?color=%2358A6FF" height="32" alt="Cursor" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide/bot.svg?color=%2358A6FF" height="32" alt="Antigravity AI" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/vercel.svg?color=%2358A6FF" height="32" alt="Vercel" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/npm.svg?color=%2358A6FF" height="32" alt="npm" />
 
 ---
 
