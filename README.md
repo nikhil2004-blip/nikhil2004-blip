@@ -4,9 +4,23 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://nikstu.tech">
+    <table align="center">
+      <tr>
+        <td bgcolor="#00C853" align="center" valign="middle" style="padding:10px 18px;">
+          <img src="./favicon.png" height="28" valign="middle">
+          <span style="color:white; font-weight:bold; font-family:sans-serif; letter-spacing:1px;">
+            PORTFOLIO
+          </span>
+        </td>
+      </tr>
+    </table>
+  </a>
+</p>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilyadavsky2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-yadav-a66769327/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil2004-blip)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nikhil_kumar_yadav/)
 
 <img src="https://komarev.com/ghpvc/?username=nikhil2004-blip&color=58a6ff&style=flat-square&label=profile+views" />
