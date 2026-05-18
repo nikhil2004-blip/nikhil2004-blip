@@ -94,8 +94,8 @@ nikhil = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikhil2004-blip&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2004-blip&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil2004-blip&theme=github_dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark" height="170" />
 
 <br/>
 
@@ -137,12 +137,10 @@ nikhil = {
 
 ▸ **wHACKiest 2025** (MSRIT) — 2nd Runner-Up with SIGNAL\
 ▸ **wHACKiest 2024** (MSRIT) — Top 5 with HAW\
-▸ **Smart India Hackathon '25** — Nagrik Seva Setu\
 ▸ **PRMO & RMO Qualified**\
 ▸ **Samsung R&D Research Intern** — GDExtension on Android\
-▸ **Open Source Contributor** — Textual (Python TUI framework)\
 ▸ **IEEE RIT** — Coverage & Computer Society Member\
-▸ GitHub PRO
+
 
 ---
 
