@@ -90,16 +90,27 @@ nikhil = {
 
 ---
 
+<img src="https://api.iconify.design/lucide/trophy.svg?color=%2358A6FF" width="18"/> &nbsp;**Trophies**
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+</div>
+
+---
+
 <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2358A6FF" width="18"/> &nbsp;**GitHub Stats**
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil2004-blip&theme=github_dark" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil2004-blip&theme=github_dark" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil2004-blip&theme=github_dark&utcOffset=5.5" height="160" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nikhil2004-blip&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
 
 </div>
 
@@ -107,11 +118,15 @@ nikhil = {
 
 <img src="https://api.iconify.design/lucide/activity.svg?color=%2358A6FF" width="18"/> &nbsp;**Contribution Snake**
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+</div>
 
 ---
 
