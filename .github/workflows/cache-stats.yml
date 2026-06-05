@@ -36,7 +36,7 @@ jobs:
           download_svg "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark" assets/langs.svg
           download_svg "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil2004-blip&theme=github_dark&utcOffset=5.5" assets/time.svg
           download_svg "https://streak-stats.demolab.com?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" assets/streak.svg || download_svg "https://streak-stats.vercel.app?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" assets/streak.svg
-          download_svg "https://github-profile-trophy.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" assets/trophy.svg
+          download_svg "https://github-profile-trophy.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" assets/trophy.svg || download_svg "https://github-profile-trophy-fork-two.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" assets/trophy.svg
 
       - name: Commit and push
         run: |
