@@ -73,7 +73,7 @@ nikhil = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/trophy.png" width="100%" />
+<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/trophy.svg" width="100%" />
 
 </div>
 
@@ -83,13 +83,13 @@ nikhil = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/stats.png" height="160" />
-<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/langs.png" height="160" />
-<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/time.png" height="160" />
+<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/stats.svg" height="160" />
+<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/langs.svg" height="160" />
+<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/time.svg" height="160" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/streak.png" width="100%" />
+<img src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/main/assets/streak.svg" width="100%" />
 
 </div>
 
