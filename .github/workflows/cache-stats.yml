@@ -1,0 +1,29 @@
+name: Cache GitHub Stats Images
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download stat images
+        run: |
+          mkdir -p assets
+          curl -o assets/stats.png "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil2004-blip&theme=github_dark"
+          curl -o assets/langs.png "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark"
+          curl -o assets/time.png "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil2004-blip&theme=github_dark&utcOffset=5.5"
+          curl -o assets/streak.png "https://github-readme-streak-stats.herokuapp.com?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+          curl -o assets/trophy.png "https://github-profile-trophy.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: cache stat images"
+          git push
