@@ -73,7 +73,7 @@ nikhil = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&v=1" width="100%" />
 
 </div>
 
@@ -83,13 +83,13 @@ nikhil = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil2004-blip&theme=github_dark" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil2004-blip&theme=github_dark&utcOffset=5.5" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil2004-blip&theme=github_dark&cache_seconds=1" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark&cache_seconds=1" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil2004-blip&theme=github_dark&utcOffset=5.5&cache_seconds=1" height="160" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
 
 </div>
 
