@@ -21,13 +21,22 @@ jobs:
 
       - name: Download stat images
         run: |
+          set -e
+
+          download_svg() {
+            url="$1"
+            output="$2"
+            curl -L -f -sS -o "$output" "$url"
+            grep -q "<svg" "$output"
+          }
+
           mkdir -p assets
           rm -f assets/stats.png assets/langs.png assets/time.png assets/streak.png assets/trophy.png
-          curl -L -f -o assets/stats.svg "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil2004-blip&theme=github_dark"
-          curl -L -f -o assets/langs.svg "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark"
-          curl -L -f -o assets/time.svg "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil2004-blip&theme=github_dark&utcOffset=5.5"
-          curl -L -f -o assets/streak.svg "https://streak-stats.demolab.com?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-          curl -L -f -o assets/trophy.svg "https://github-profile-trophy.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7"
+          download_svg "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil2004-blip&theme=github_dark" assets/stats.svg
+          download_svg "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil2004-blip&theme=github_dark" assets/langs.svg
+          download_svg "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil2004-blip&theme=github_dark&utcOffset=5.5" assets/time.svg
+          download_svg "https://streak-stats.demolab.com?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" assets/streak.svg || download_svg "https://streak-stats.vercel.app?user=nikhil2004-blip&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" assets/streak.svg
+          download_svg "https://github-profile-trophy.vercel.app/?username=nikhil2004-blip&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" assets/trophy.svg
 
       - name: Commit and push
         run: |
