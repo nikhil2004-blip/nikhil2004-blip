@@ -23,7 +23,7 @@
         <img src="https://komarev.com/ghpvc/?username=nikhil2004-blip&color=58a6ff&style=flat-square&label=profile+views" />
       </td>
       <td align="center" valign="middle" style="border: none;">
-        <img src="animated_ascii.svg" width="300" alt="ASCII Art" />
+        <img src="animated_ascii_v2.svg" width="100%" alt="ASCII Art" />
       </td>
     </tr>
   </table>

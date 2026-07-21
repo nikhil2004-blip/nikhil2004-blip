@@ -44,7 +44,7 @@ svg_content += '''  </g>
 </svg>
 '''
 
-with open('animated_ascii.svg', 'w', encoding='utf-8') as f:
+with open('animated_ascii_v2.svg', 'w', encoding='utf-8') as f:
     f.write(svg_content)
 
-print("animated_ascii.svg generated!")
+print("animated_ascii_v2.svg generated!")
