@@ -26,8 +26,18 @@ jobs:
           download_svg() {
             url="$1"
             output="$2"
-            curl -L -f -sS -o "$output" "$url"
-            grep -q "<svg" "$output"
+            tmp_output="${output}.tmp"
+            if curl -L -f -sS -o "$tmp_output" "$url"; then
+              if grep -qi "temporarily rate limited\|ERROR" "$tmp_output"; then
+                echo "Warning: Rate limited or error detected from $url. Keeping old file."
+                rm -f "$tmp_output"
+              else
+                mv "$tmp_output" "$output"
+              fi
+            else
+              echo "Warning: Failed to download from $url. Keeping old file."
+              rm -f "$tmp_output"
+            fi
           }
 
           mkdir -p assets

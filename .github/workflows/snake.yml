@@ -17,12 +17,13 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: nikhil2004-blip
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2358A6FF&color_dots[0]=%230d1117&color_dots[1]=%230e2a4a&color_dots[2]=%231a4a7a&color_dots[3]=%232d7dd2&color_dots[4]=%2358A6FF&color_empty=%230d1117
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2358A6FF&color_dots[0]=%230d1117&color_dots[1]=%230e2a4a&color_dots[2]=%231a4a7a&color_dots[3]=%232d7dd2&color_dots[4]=%2358A6FF&color_empty=%230d1117
+            dist/github-contribution-grid-snake.gif?color_snake=%2358A6FF&color_dots[0]=%230d1117&color_dots[1]=%230e2a4a&color_dots[2]=%231a4a7a&color_dots[3]=%232d7dd2&color_dots[4]=%2358A6FF&color_empty=%230d1117
 
       - name: Push output to `output` branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
