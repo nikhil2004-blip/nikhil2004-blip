@@ -4,7 +4,7 @@ import html
 with open('final.txt', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
-svg_width = 1600
+svg_width = 1090
 svg_height = len(lines) * 9 + 40
 
 svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
@@ -44,7 +44,7 @@ svg_content += '''  </g>
 </svg>
 '''
 
-with open('animated_ascii_v2.svg', 'w', encoding='utf-8') as f:
+with open('animated_ascii_v3.svg', 'w', encoding='utf-8') as f:
     f.write(svg_content)
 
-print("animated_ascii_v2.svg generated!")
+print("animated_ascii_v3.svg generated!")

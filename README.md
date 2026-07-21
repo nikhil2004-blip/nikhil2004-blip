@@ -1,7 +1,7 @@
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td align="center" valign="middle" style="border: none;">
+      <td width="50%" align="center" valign="middle" style="border: none;">
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Hey%2C+I'm+Nikhil+Kumar+Yadav;Flutter+%7C+React+%7C+Kotlin+%7C+Voxels+somehow;Samsung+R%26D+Research+Intern;Building+stuff+that+survives+real+users;3D+%7C+AI+%7C+Hackathons+%7C+GTA+opinions" alt="Typing SVG" />
         </a>
@@ -22,8 +22,8 @@
         </p>
         <img src="https://komarev.com/ghpvc/?username=nikhil2004-blip&color=58a6ff&style=flat-square&label=profile+views" />
       </td>
-      <td align="center" valign="middle" style="border: none;">
-        <img src="animated_ascii_v2.svg" width="100%" alt="ASCII Art" />
+      <td width="50%" align="center" valign="middle" style="border: none;">
+        <img src="animated_ascii_v3.svg" width="100%" alt="ASCII Art" />
       </td>
     </tr>
   </table>
