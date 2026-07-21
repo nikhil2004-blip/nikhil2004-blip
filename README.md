@@ -104,7 +104,7 @@ nikhil = {
 
 <div align="center">
 
-<img alt="contribution snake animation" src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/output/github-contribution-grid-snake.gif" width="100%" />
+<img alt="contribution snake animation" src="https://raw.githubusercontent.com/nikhil2004-blip/nikhil2004-blip/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 

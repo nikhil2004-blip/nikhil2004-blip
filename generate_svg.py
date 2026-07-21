@@ -4,16 +4,16 @@ import html
 with open('final.txt', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
-svg_width = 1200
-svg_height = len(lines) * 5 + 20
+svg_width = 1600
+svg_height = len(lines) * 9 + 40
 
 svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
   <style>
     .ascii {{
       font-family: monospace;
-      font-size: 5px;
+      font-size: 8px;
       white-space: pre;
-      fill: #58A6FF;
+      fill: #c9d1d9;
       opacity: 0;
       animation: glitch-load 2s forwards;
     }}
@@ -27,6 +27,7 @@ svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" he
       100% {{ opacity: 1; filter: blur(0px); transform: translate(0, 0); }}
     }}
   </style>
+  <rect width="100%" height="100%" fill="#0d1117" />
   <g transform="translate(10, 15)">
 '''
 
@@ -36,7 +37,7 @@ for i, line in enumerate(lines):
         continue
     escaped_line = html.escape(line)
     delay = random.uniform(0, 1.5)
-    y_pos = i * 5
+    y_pos = i * 9
     svg_content += f'    <text y="{y_pos}" class="ascii" style="animation-delay: {delay:.2f}s;">{escaped_line}</text>\n'
 
 svg_content += '''  </g>
