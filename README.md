@@ -88,8 +88,8 @@ nikhil = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhil2004-blip&theme=github_dark&show_icons=true" height="160" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhil2004-blip&theme=github_dark&layout=compact" height="160" />
+<img src="https://github-stats-extended.vercel.app/api?username=nikhil2004-blip&theme=github_dark&show_icons=true" height="160" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nikhil2004-blip&theme=github_dark&layout=compact" height="160" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil2004-blip&theme=github_dark&utcOffset=5.5" height="160" />
 
 <br/>
