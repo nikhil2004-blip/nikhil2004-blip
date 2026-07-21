@@ -18,12 +18,12 @@
                 <path id='path0'>
                             <!-- Multiline -->
                                 <animate id='d0' attributeName='d' begin='0s;d4.end'
-                    dur='6000ms' fill="freeze"
-                    values='m0,21 h0 ; m0,21 h0 ; m0,21 h450 ; m0,21 h450' keyTimes='0;0;0.83333333333333;1' />
+                    dur='1700ms' fill="freeze"
+                    values='m0,21 h0 ; m0,21 h0 ; m0,21 h450 ; m0,21 h450' keyTimes='0;0;0.88235294117647;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#58A6FF' font-size='16'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
             Hey, I&#039;m Nikhil Kumar Yadav
@@ -32,12 +32,12 @@
         <path id='path1'>
                             <!-- Multiline -->
                                 <animate id='d1' attributeName='d' begin='0s;d4.end'
-                    dur='12000ms' fill="freeze"
-                    values='m0,42 h0 ; m0,42 h0 ; m0,42 h450 ; m0,42 h450' keyTimes='0;0.5;0.91666666666667;1' />
+                    dur='3400ms' fill="freeze"
+                    values='m0,42 h0 ; m0,42 h0 ; m0,42 h450 ; m0,42 h450' keyTimes='0;0.5;0.94117647058824;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#58A6FF' font-size='16'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
             Flutter | React | Kotlin | Voxels somehow
@@ -46,12 +46,12 @@
         <path id='path2'>
                             <!-- Multiline -->
                                 <animate id='d2' attributeName='d' begin='0s;d4.end'
-                    dur='18000ms' fill="freeze"
-                    values='m0,63 h0 ; m0,63 h0 ; m0,63 h450 ; m0,63 h450' keyTimes='0;0.66666666666667;0.94444444444444;1' />
+                    dur='5100ms' fill="freeze"
+                    values='m0,63 h0 ; m0,63 h0 ; m0,63 h450 ; m0,63 h450' keyTimes='0;0.66666666666667;0.96078431372549;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#58A6FF' font-size='16'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
             Samsung R&amp;D Research Intern
@@ -60,12 +60,12 @@
         <path id='path3'>
                             <!-- Multiline -->
                                 <animate id='d3' attributeName='d' begin='0s;d4.end'
-                    dur='24000ms' fill="freeze"
-                    values='m0,84 h0 ; m0,84 h0 ; m0,84 h450 ; m0,84 h450' keyTimes='0;0.75;0.95833333333333;1' />
+                    dur='6800ms' fill="freeze"
+                    values='m0,84 h0 ; m0,84 h0 ; m0,84 h450 ; m0,84 h450' keyTimes='0;0.75;0.97058823529412;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#58A6FF' font-size='16'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path3'>
             Building stuff that survives real users
@@ -74,12 +74,12 @@
         <path id='path4'>
                             <!-- Multiline -->
                                 <animate id='d4' attributeName='d' begin='0s;d4.end'
-                    dur='30000ms' fill="freeze"
-                    values='m0,105 h0 ; m0,105 h0 ; m0,105 h450 ; m0,105 h450' keyTimes='0;0.8;0.96666666666667;1' />
+                    dur='8500ms' fill="freeze"
+                    values='m0,105 h0 ; m0,105 h0 ; m0,105 h450 ; m0,105 h450' keyTimes='0;0.8;0.97647058823529;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#58A6FF' font-size='16'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path4'>
             3D | AI | Hackathons | GTA opinions
