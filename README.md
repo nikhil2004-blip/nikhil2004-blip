@@ -130,7 +130,7 @@ nikhil = {
 
 <img src="https://api.iconify.design/lucide/award.svg?color=%2358A6FF" width="18"/> &nbsp;**Achievements**
 
-▸ **wHACKiest 2025** (MSRIT) — 2nd Runner-Up with SIGNAL\
+▸ **wHACKiest 2025** (MSRIT) — 2nd Runner-Up with GYANYAAN\
 ▸ **wHACKiest 2024** (MSRIT) — Top 5 with HAW\
 ▸ **PRMO & RMO Qualified**\
 ▸ **Samsung R&D Research Intern** — GDExtension on Android\
